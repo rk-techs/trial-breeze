@@ -1,6 +1,6 @@
 # trial-breeze
 
-This is Laravel `10.x` project for trial using Breeze.
+This is Laravel `10.x` project for trial using Breeze. 
 
 ## Prerequisite
 
